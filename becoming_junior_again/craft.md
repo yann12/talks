@@ -21,6 +21,8 @@ Extreme programming : dans l'ordre [wikipedia](https://fr.wikipedia.org/wiki/Ext
 
 Pair Programming : [super article](https://martinfowler.com/articles/on-pair-programming.html) sur le blog de Martin Fowler
 
+No-estimates : [comment faire de la prévision](https://youtu.be/gJjZaTdJOgg) et un [retour d'expérience](https://blog.octo.com/noestimates-un-an-de-projet-faisons-le-bilan).
+
 ### Test Driven Development (TDD)
 
 Le [blog d'Ippon](https://blog.ippon.fr/2020/02/12/apprendre-le-tdd/) qui est très didactique.
@@ -43,6 +45,8 @@ Conférence d'Alistair Cockburn en trois parties : [1](https://www.youtube.com/w
 
 [Exemple d'implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/).
 
+[Clean archi vs archi hexagonale](https://www.youtube.com/watch?v=GG9WyeerqFA).
+
 ## Niveau 3
 
 ### DDD
@@ -56,6 +60,8 @@ Adam Dymitruk pour [l'Event-Modeling](https://eventmodeling.org), en commençant
 [Monolithe modulaire et DDD](https://github.com/kgrzybek/modular-monolith-with-ddd).
 
 [Pureté vs Complétude](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/).
+
+[Mettre du métier dans REST](https://www.youtube.com/watch?v=7qqzqse1hgc).
 
 ### CQRS
 
